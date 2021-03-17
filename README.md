@@ -1,0 +1,1 @@
+Simple simulation of system to monitor employees activity at work, with RFID technology and MQTT protocol.
